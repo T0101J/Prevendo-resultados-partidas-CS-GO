@@ -1,4 +1,4 @@
-# Prevendo Resultados de Partidas CS-GO
+# Projeto de Machine Learning Prevendo Resultados de Partidas CS-GO
 
 Prevendo resultado de partidas de CSGO usando modelo de Regressão Logística
 
